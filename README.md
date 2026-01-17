@@ -1,10 +1,21 @@
-# CLI Calculator (C++)
+# C++ CLI Calculator
 
-A simple command-line calculator written in C++26.
-Built to practice switch, input validation, and
-project structure.
+A simple command-line calculator written in C++ that supports:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
 ## Features
-- Add, subtract, multiply, divide
-- Handles invalid input
-- Menu-driven interface
+- Menu-based CLI interface
+- Object-oriented design
+- Input validation
+- Runs in a loop until exit
+
+## Why I built this
+I built this project to practice C++ fundamentals, object-oriented design, and CLI programs.
+
+##Future Improvements
+- Floating-point support
+- Error handling
+- Operation history
